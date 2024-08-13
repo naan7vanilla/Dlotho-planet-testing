@@ -6,26 +6,26 @@
 		"startBias": ["Lakes"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "Pardon me for poor choice of words, we come in peace.",
-		"startIntroPart2": "Chia to nuta dae amigo dei camita! I am Naomi the Pious, princess of Gamou house, very pleased to collaborate with you!",
+		"startIntroPart1": "Pardon me for poor choice of words.",
+		"startIntroPart2": "I am Naomi the Pious, princess of Gamou house, very pleased to collaborate with thou!",
 		
 		"declaringWar": "We come to civilize you, please do not resist!",
 		"attacked": "There is no surprise, this day would have came earlier.",
 		"defeated": "Nobody is innocent, this is fair to us, GG.",
-		"introduction": "Halia.",
+		"introduction": "Halia to casamita, I am Naomi the Pious, princess of Gamou house, very pleased to collaborate with you!.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "How are thou doing?",
 		"neutralLetsHearIt": ["Haie I am listening...","Etto?","Wanna cup o tea mr ambassador?"],
 		"neutralNo": "Sorry, I dont.",
 		"neutralYes": ["Iaraa, very good.","Of course, yes."],
 
-		"hateHello": "Leave us alone",
+		"hateHello": "Leave us alone you barbarians!",
 		"hateLetsHearIt": "Speak! Go on...",
-		"hateNo": ["That is not possible!","We are not agreeing to that!"],
+		"hateNo": ["We are not agreeing to that!"],
 		"hateYes": ["Souulu... farewell"],
 		
 		"afterPeace": "Bon voyage me old cream cracker!",
-		"tradeRequest": "Haei, wanna trade.",
+		"tradeRequest": "Is our offer too much?",
 
 		"outerColor": [51,255,193],
 		"innerColor": [255,51,184],
@@ -40,25 +40,25 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": ["Hi!"],
-		"startIntroPart2": ["Let's hang out around the deepest reef!"],
+		"startIntroPart1": ["Please rule your people of Chizchia nicely."],
+		"startIntroPart2": ["Let's ride the great wave, hang out around the deepest reef!"],
 		
 		"declaringWar": ["You are the barrier of the mankind progression!"],
-		"attacked": ["Stay away!"],
+		"attacked": ["War is loss of many people's youth and nature itself."],
 		"defeated": ["As long as the Chizchia stands, liberalism shall stand..."],
-		"introduction": ["Let's be friend, just friend."],
+		"introduction": ["Let's be friend, just friend. Let's ride the great wave, hang out around the deepest reef!"],
 		
-		"neutralHello": ["How are you doing?"],
-		"neutralLetsHearIt": ["Go on.","You may begin."],
+		"neutralHello": ["Sup mr ambassador"],
+		"neutralLetsHearIt": ["Go on."],
 		"neutralNo": ["This is harmful for the enviroment."],
 		"neutralYes": ["That is very good."],
 
-		"hateHello": ["What do you want now?"],
+		"hateHello": ["Stay away"],
 		"hateLetsHearIt": ["Speak!"],
 		"hateNo": ["We are not agreeing to that!"],
 		"hateYes": ["That is good enough."],
 		
-		"afterPeace": ["Very well, all that fighting was getting boring anyway."],
+		"afterPeace": ["This apology cannot pay for the millions of lives."],
 		"tradeRequest": ["Wanna trade?"],
 
 		"outerColor": [16,16,16],
