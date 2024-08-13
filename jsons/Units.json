@@ -12,4 +12,19 @@
 		"promotions": ["Bombardment I"],
 		"attackSound": "phasers"
 	},
+	{
+		"name": "Shark Cavalry",
+		"unitType": "Ranged Water",
+		"uniqueTo": "Chizchi",
+		"replaces": "Trireme",
+		"movement": 6,
+		"strength": 8,
+		"rangedStrength": 45,
+		"range": 1,
+		"cost": 45,
+		"requiredTech": "Sailing",
+		"requiredResource": "Fish",
+		"promotions": ["Supply"],
+		"attackSound": "phasers"
+	}
 ]
