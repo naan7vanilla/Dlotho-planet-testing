@@ -12,14 +12,14 @@
 		"declaringWar": "We come to civilize you, please do not resist!",
 		"attacked": "There is no surprise, this day would have came earlier.",
 		"defeated": "Nobody is innocent, this is fair to us, GG.",
-		"introduction": "Thou are not worthy of our attention.",
+		"introduction": "Halia.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Haie I am listening...","Etto?","Wanna cup o tea mr ambassador?"],
 		"neutralNo": "Sorry, I dont.",
 		"neutralYes": ["Iaraa, very good.","Of course, yes."],
 
-		"hateHello": "Leave us alone in peace",
+		"hateHello": "Leave us alone",
 		"hateLetsHearIt": "Speak! Go on...",
 		"hateNo": ["That is not possible!","We are not agreeing to that!"],
 		"hateYes": "Hhh, farewell",
