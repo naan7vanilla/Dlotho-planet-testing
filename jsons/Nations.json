@@ -2,7 +2,7 @@
 	{
 		"name": "Penasulia",
 		"leaderName": "Gamou noui Naomi",
-		"adjective": ["vani"],
+		"adjective": ["Penan"],
 		"startBias": ["Lakes"],
 		"preferredVictoryType": "Domination",
 		
@@ -22,10 +22,10 @@
 		"hateHello": "Leave us alone",
 		"hateLetsHearIt": "Speak! Go on...",
 		"hateNo": ["That is not possible!","We are not agreeing to that!"],
-		"hateYes": "Hhh, farewell",
+		"hateYes": ["Souulu... farewell"],
 		
 		"afterPeace": "Bon voyage me old cream cracker!",
-		"tradeRequest": "Whats exotic goods.",
+		"tradeRequest": "Haei, wanna trade.",
 
 		"outerColor": [51,255,193],
 		"innerColor": [255,51,184],
