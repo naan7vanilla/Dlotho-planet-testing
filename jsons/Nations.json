@@ -29,7 +29,7 @@
 
 		"outerColor": [51,255,193],
 		"innerColor": [255,51,184],
-		"unique": "INDIE_GUILD",
+		"uniques": ["[+1 Culture] from every specialist [in all cities]"],
 		"cities": ["Sapphoro","Polchtidayum","Caminato","Chauto","Adonicopolis","Saliropolis","Achilena","Cenai","Nilai",
 			"Molasi","Sato","Fuzu","Hemecohan","Tzsubakyir","Cudo","Federhafen"]
 	},
