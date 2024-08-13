@@ -29,7 +29,7 @@
 
 		"outerColor": [51,255,193],
 		"innerColor": [255,51,184],
-		"uniques": ["[+1 Culture] from every specialist [in all cities]","Starts with [Autocracy] adopted","Starts with [Tradition] adopted"],
+		"uniques": ["[+1 Culture] from every [specialist]","Starts with [Autocracy] adopted","Starts with [Tradition] adopted"],
 		"cities": ["Sapphoro","Polchtidayum","Caminato","Chauto","Adonicopolis","Saliropolis","Achilena","Cenai","Nilai",
 			"Molasi","Sato","Fuzu","Hemecohan","Tzsubakyir","Cudo","Federhafen"]
 	},
@@ -96,7 +96,7 @@
 
 		"outerColor": [140,25,255],
 		"innerColor": [255,200,200],
-		"uniques": ["Cannot build [Settler] units"],
+		"uniques": ["Cannot build [Settler] units","[+1 Gold, +2 Food] from every [specialist]"],
 		"cities": ["Boreaulpolis"]
 	}
 ]
