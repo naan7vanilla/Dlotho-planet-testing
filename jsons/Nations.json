@@ -4,7 +4,7 @@
 		"leaderName": "Gamou noui Naomi",
 		"adjective": ["Penan"],
 		"startBias": ["Lakes"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Pardon me for poor choice of words.",
 		"startIntroPart2": "I am Naomi the Pious, princess of Gamou house, very pleased to collaborate with thou!",
@@ -29,7 +29,7 @@
 
 		"outerColor": [51,255,193],
 		"innerColor": [255,51,184],
-		"uniques": ["[+1 Culture] from every specialist [in all cities]"],
+		"uniques": ["[+1 Culture] from every specialist [in all cities]","Starts with [Autocracy] adopted","Starts with [Tradition] adopted"],
 		"cities": ["Sapphoro","Polchtidayum","Caminato","Chauto","Adonicopolis","Saliropolis","Achilena","Cenai","Nilai",
 			"Molasi","Sato","Fuzu","Hemecohan","Tzsubakyir","Cudo","Federhafen"]
 	},
@@ -63,7 +63,7 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [0,205,255],
-		"uniques": ["[+1 Food] from every [Coast]","[-4 Happiness] from every [Barracks]"],
+		"uniques": ["[+2 Food] from every [Coast]","[-4 Happiness] from every [Barracks]"],
 		"cities": ["Crimau","Cavok","Dojcad"]
 	},
 	{
