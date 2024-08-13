@@ -24,5 +24,17 @@
 		"gold": 1,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Sailing"
+	},
+	{
+		"name": "Cyber Apts",
+		"uniqueTo": "Boreaul",
+		"cost": 500,
+		"hurryCostModifier": 1000,
+		"happiness": 1,
+		"food": 10,
+		"culture": 2,
+		"gold": 5,
+		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"requiredTech": "Ecology"
 	}
 ]
