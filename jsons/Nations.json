@@ -96,7 +96,7 @@
 
 		"outerColor": [140,25,255],
 		"innerColor": [255,200,200],
-		"uniques": ["Cannot build [Settler] units","[+3 Gold,+2 Food] from every [specialist]"],
+		"uniques": ["Cannot build [Settler] units","[+3 Gold,+2 Food] from every [specialist]","Starts with [Freedom] adopted","Starts with [Commerce] adopted","Starts with [Currency]"],
 		"cities": ["Boreaulpolis","Boreaulpolis suburb","Boreaupolis port","Boreaupolis outpost"]
 	}
 ]
