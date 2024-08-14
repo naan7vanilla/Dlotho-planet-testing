@@ -99,7 +99,7 @@
 		"uniques": ["Cannot build [Settler] units","[+3 Gold, +2 Food] from every [specialist]","[+1 Gold] per [3] population [in all cities]","Starts with [Freedom] adopted","Starts with [Commerce] adopted","Starts with [Currency]","[7] units cost no maintenance"],
 		"cities": ["Boreaulpolis","Boreaulpolis suburb","Boreaupolis port","Boreaupolis outpost"]
 	},
-{
+	{
 		"name": "Dlotho South Pole",
 		"leaderName": "Who Are The Death",
 		"adjective": ["who"],
