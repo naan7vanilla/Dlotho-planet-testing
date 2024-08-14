@@ -29,7 +29,7 @@
 
 		"outerColor": [51,255,193],
 		"innerColor": [255,51,184],
-		"uniques": ["[+1 Culture] from every [specialist]","Starts with [Autocracy] adopted","Starts with [Tradition] adopted","May not annex cities","May buy items in puppet cities"],
+		"uniques": ["[+1 Culture] from every [specialist]","Starts with [Autocracy] adopted","Starts with [Tradition] adopted","May not annex cities","May buy items in puppet cities","Starts with [Honor] adopted"],
 		"cities": ["Sapphoro","Polchtidayum","Caminato","Chauto","Adonicopolis","Saliropolis","Achilena","Cenai","Nilai",
 			"Molasi","Sato","Fuzu","Hemecohan","Tzsubakyir","Cudo","Federhafen"]
 	},
@@ -98,5 +98,38 @@
 		"innerColor": [255,200,200],
 		"uniques": ["Cannot build [Settler] units","[+3 Gold, +2 Food] from every [specialist]","[+1 Gold] per [3] population [in all cities]","Starts with [Freedom] adopted","Starts with [Commerce] adopted","Starts with [Currency]","[7] units cost no maintenance"],
 		"cities": ["Boreaulpolis","Boreaulpolis suburb","Boreaupolis port","Boreaupolis outpost"]
+	},
+{
+		"name": "Dlotho South Pole",
+		"leaderName": "Who Are The Death",
+		"adjective": ["who"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Breath",
+		"startIntroPart2": "Who are we? We dont remember, everything we know is wrath. Reclaim our honor!",
+		
+		"declaringWar": "Return our honor!",
+		"attacked": "So you have choosen death!",
+		"defeated": "We were just misunderstood and stuck in forever wrath, we will rise again from the ashes, you owe us your head!",
+		"introduction": "The First Generation of Old World hyper power has been risen from the ashes, prepare to dead!",
+		
+		"neutralHello": "Breath.",
+		"neutralLetsHearIt": ["Breath."],
+		"neutralNo": ["Haha... head shake."],
+		"neutralYes": ["You chose wisely."],
+
+		"hateHello": "Breath",
+		"hateLetsHearIt": ["Breath."],
+		"hateNo": ["Staring."],
+		"hateYes": ["You decided wisely, kids."],
+		
+		"afterPeace": "We will return.",
+		"tradeRequest": "At least we dont want your blood this time.",
+
+		"outerColor": [140,25,255],
+		"innerColor": [255,200,200],
+		"uniques": ["Cannot build [Settler] units","Starts with [Honor] adopted","[30] units cost no maintenance","Cannot build [Ranged] units","[6] Unit Supply per [1] population [in all cities]","Quantity of strategic resources produced by the empire +[+100]%","Cities are razed [20] times as fast","No movement cost to pillage","Can only heal by pillaging"],
+		"cities": ["South Pole"]
 	}
 ]
