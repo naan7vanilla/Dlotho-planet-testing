@@ -26,5 +26,29 @@
 		"requiredResource": "Fish",
 		"promotions": ["Supply"],
 		"attackSound": "phasers"
+	},
+	{
+		"name": "Reclaim Legion",
+		"unitType": "Sword",
+		"uniqueTo": "Dlotho South Pole",
+		"replaces": "Warrior",
+		"movement": 3,
+		"strength": 8,
+		"cost": 4,
+		"requiredTech": "Agriculture",
+		"promotions": ["Blitz"],
+		"attackSound": "phasers"
+	},
+	{
+		"name": "Death Merged",
+		"unitType": "Armored",
+		"uniqueTo": "Dlotho South Pole",
+		"movement": 1,
+		"strength": 150,
+		"cost": 425,
+		"requiredTech": "Agriculture",
+		"promotions": ["Blitz","Charge"],
+		"requiredResource": "Iron",
+		"attackSound": "phasers"
 	}
 ]
