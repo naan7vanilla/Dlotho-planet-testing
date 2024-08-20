@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Penasulia",
+		"name": "Penasuli",
 		"leaderName": "Gamou noui Naomi",
 		"adjective": ["Penan"],
 		"startBias": ["Lakes"],
@@ -34,7 +34,7 @@
 			"Molasi","Sato","Fuzu","Hemecohan","Tzsubakyir","Cudo","Federhafen"]
 	},
 	{
-		"name": "Chizchia",
+		"name": "Chizchi",
 		"leaderName": "Chipura II",
 		"adjective": ["Chizchian"],
 		"startBias": ["Coast"],
@@ -100,7 +100,7 @@
 		"cities": ["Boreaulpolis","Boreaulpolis suburb","Boreaupolis port","Boreaupolis outpost"]
 	},
 	{
-		"name": "Dlotho South Pole",
+		"name": "South Pole",
 		"leaderName": "Who Are The Death",
 		"adjective": ["who"],
 		"startBias": ["Snow"],
