@@ -2,7 +2,7 @@
 	{
 		"name": "Windmill Power Plant",
 		"replaces": "Windmill",
-		"uniqueTo": "Penasulia",
+		"uniqueTo": "Penasuli",
 		"cost": 250,
 		"hurryCostModifier": 1000,
 		"culture": 2,
@@ -14,7 +14,7 @@
 	{
 		"name": "Seaweed Farmers Commue",
 		"replaces": "Harbor",
-		"uniqueTo": "Chizchia",
+		"uniqueTo": "Chizchi",
 		"cost": 120,
 		"hurryCostModifier": 160,
 		"happiness": 2,
