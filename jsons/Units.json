@@ -2,7 +2,7 @@
 	{
 		"name": "Ornithopter",
 		"unitType": "Fighter",
-		"uniqueTo": "Penasulia",
+		"uniqueTo": "Penasuli",
 		"replaces": "Triplane",
 		"strength": 11,
 		"rangedStrength": 11,
@@ -30,7 +30,7 @@
 	{
 		"name": "Reclaim Legion",
 		"unitType": "Sword",
-		"uniqueTo": "Dlotho South Pole",
+		"uniqueTo": "South Pole",
 		"replaces": "Warrior",
 		"movement": 3,
 		"strength": 8,
@@ -42,7 +42,7 @@
 	{
 		"name": "Death Merged",
 		"unitType": "Armored",
-		"uniqueTo": "Dlotho South Pole",
+		"uniqueTo": "South Pole",
 		"movement": 1,
 		"strength": 150,
 		"cost": 425,
