@@ -2,7 +2,7 @@
 	{
 		"name": "Windmill Power Plant",
 		"replaces": "Windmill",
-		"uniqueTo": "Penasuliaci",
+		"uniqueTo": "Penasulia",
 		"cost": 250,
 		"hurryCostModifier": 1000,
 		"culture": 2,
